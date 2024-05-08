@@ -1,37 +1,13 @@
 <script>
+import json from "./json/wallpapers.json"
+
 export default {
     name: 'Main',
     data() {
         return {
             title: 'Laracast Wallpapers',
             content: 'Don’t forget! Every series has it’s own dedicated wallpaper. Whenever you view a series, scroll right under the video and you’ll see a download button there.Go ahead and explore and find your favorite one. Here are a few with Lary!',
-            wallpapers: [
-                {
-                    id: 1,
-                    img: '/wallpapers/wallpaper-blue.jpeg',
-                    alt: 'Blue Laracasts Wallpaper',
-                },
-                {
-                    id: 2,
-                    img: '/wallpapers/wallpaper-green.jpeg',
-                    alt: 'Green Laracasts Wallpaper',
-                },
-                {
-                    id: 3,
-                    img: '/wallpapers/wallpaper-red.jpeg',
-                    alt: 'Red Laracasts Wallpaper',
-                },
-                {
-                    id: 4,
-                    img: '/wallpapers/wallpaper-yellow.jpeg',
-                    alt: 'Yellow Laracasts Wallpaper',
-                },
-                {
-                    id: 5,
-                    img: '/wallpapers/wallpaper-purple.jpeg',
-                    alt: 'Purple Laracasts Wallpaper',
-                }
-            ]
+            wallpapers: json.wallpapers
         }
     }
 }
