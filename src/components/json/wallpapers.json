@@ -2,28 +2,233 @@
   "wallpapers": [
     {
       "id": 1,
-      "img": "/wallpapers/wallpaper-blue.jpeg",
+      "img": "/wallpapers/Wallpaper-Blue.jpeg",
       "alt": "Blue Laracasts Wallpaper"
     },
     {
       "id": 2,
-      "img": "/wallpapers/wallpaper-green.jpeg",
+      "img": "/wallpapers/Wallpaper-Green.jpeg",
       "alt": "Green Laracasts Wallpaper"
     },
     {
       "id": 3,
-      "img": "/wallpapers/wallpaper-red.jpeg",
+      "img": "/wallpapers/Wallpaper-Red.jpeg",
       "alt": "Red Laracasts Wallpaper"
     },
     {
       "id": 4,
-      "img": "/wallpapers/wallpaper-yellow.jpeg",
+      "img": "/wallpapers/Wallpaper-Yellow.jpeg",
       "alt": "Yellow Laracasts Wallpaper"
     },
     {
       "id": 5,
-      "img": "/wallpapers/wallpaper-purple.jpeg",
+      "img": "/wallpapers/Wallpaper-Purple.jpeg",
       "alt": "Purple Laracasts Wallpaper"
+    },
+    {
+      "id": 6,
+      "img": "/wallpapers/Wallpaper-30_days_to_learn_laravel.png",
+      "alt": "Wallpaper-30_days_to_learn_laravel"
+    },
+    {
+      "id": 7,
+      "img": "/wallpapers/Wallpaper-Automatic_Laravel_Upgrades_Explained.png",
+      "alt": "Wallpaper-Automatic_Laravel_Upgrades_Explained"
+    },
+    {
+      "id": 8,
+      "img": "/wallpapers/Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel.png",
+      "alt": "Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel"
+    },
+    {
+      "id": 9,
+      "img": "/wallpapers/Wallpaper-AWS_Fundamentals.png",
+      "alt": "Wallpaper-AWS_Fundamentals"
+    },
+    {
+      "id": 10,
+      "img": "/wallpapers/Wallpaper-Build_a_Forum_with_Laravel.png",
+      "alt": "Wallpaper-Build_a_Forum_with_Laravel"
+    },
+    {
+      "id": 11,
+      "img": "/wallpapers/Wallpaper-Build_a_Web_Shop_From_A-Z.png",
+      "alt": "Wallpaper-Build_a_Web_Shop_From_A-Z"
+    },
+    {
+      "id": 12,
+      "img": "/wallpapers/Wallpaper-Build_Advanced_Components_For_Filament.png",
+      "alt": "Wallpaper-Build_Advanced_Components_For_Filament"
+    },
+    {
+      "id": 13,
+      "img": "/wallpapers/Wallpaper-Code_Katas.png",
+      "alt": "Wallpaper-Code_Katas"
+    },
+    {
+      "id": 14,
+      "img": "/wallpapers/Wallpaper-Codebreaking_Workshop.png",
+      "alt": "Wallpaper-Codebreaking_Workshop"
+    },
+    {
+      "id": 15,
+      "img": "/wallpapers/Wallpaper-CSS_Flexbox_Simplified.png",
+      "alt": "Wallpaper-CSS_Flexbox_Simplified"
+    },
+    {
+      "id": 16,
+      "img": "/wallpapers/Wallpaper-CSS_Grids_Simplified.png",
+      "alt": "Wallpaper-CSS_Grids_Simplified"
+    },
+    {
+      "id": 17,
+      "img": "/wallpapers/Wallpaper-Demystifying_Laravel_Magic.png",
+      "alt": "Wallpaper-Demystifying_Laravel_Magic"
+    },
+    {
+      "id": 18,
+      "img": "/wallpapers/Wallpaper-Desktop_Livewire_Uncovered.png",
+      "alt": "Wallpaper-Desktop_Livewire_Uncovered"
+    },
+    {
+      "id": 19,
+      "img": "/wallpapers/Wallpaper-Develop_Serverless_Functions_With_Laravel.png",
+      "alt": "Wallpaper-Develop_Serverless_Functions_With_Laravel"
+    },
+    {
+      "id": 20,
+      "img": "/wallpapers/Wallpaper-Inertia_and_SPA_Techniques.png",
+      "alt": "Wallpaper-Inertia_and_SPA_Techniques"
+    },
+    {
+      "id": 21,
+      "img": "/wallpapers/Wallpaper-Inertia_Mastery.png",
+      "alt": "Wallpaper-Inertia_Mastery"
+    },
+    {
+      "id": 22,
+      "img": "/wallpapers/Wallpaper-Infinite_Scrolling_With_Inerita.png",
+      "alt": "Wallpaper-Infinite_Scrolling_With_Inerita"
+    },
+    {
+      "id": 23,
+      "img": "/wallpapers/Wallpaper-Javascript_The_First_Steps.png",
+      "alt": "Wallpaper-Javascript_The_First_Steps"
+    },
+    {
+      "id": 24,
+      "img": "/wallpapers/Wallpaper-Laravel_Cookbook.png",
+      "alt": "Wallpaper-Laravel_Cookbook"
+    },
+    {
+      "id": 25,
+      "img": "/wallpapers/Wallpaper-Laravel_Nova_Mastery.png",
+      "alt": "Wallpaper-Laravel_Nova_Mastery"
+    },
+    {
+      "id": 26,
+      "img": "/wallpapers/Wallpaper-Laravel_Octane.png",
+      "alt": "Wallpaper-Laravel_Octane"
+    },
+    {
+      "id": 27,
+      "img": "/wallpapers/Wallpaper-Laravel_Security_Through_Examples.png",
+      "alt": "Wallpaper-Laravel_Security_Through_Examples"
+    },
+    {
+      "id": 28,
+      "img": "/wallpapers/Wallpaper-Learn_Laravel_Forge.png",
+      "alt": "Wallpaper-Learn_Laravel_Forge"
+    },
+    {
+      "id": 29,
+      "img": "/wallpapers/Wallpaper-Learn_Statamic_With_Jack.png",
+      "alt": "Wallpaper-Learn_Statamic_With_Jack"
+    },
+    {
+      "id": 30,
+      "img": "/wallpapers/Wallpaper-Let's_Build_an_Offline_First_Vue_App.png",
+      "alt": "Wallpaper-Let's_Build_an_Offline_First_Vue_App"
+    },
+    {
+      "id": 31,
+      "img": "/wallpapers/Wallpaper-Load_Balance_a_Laravel_App.png",
+      "alt": "Wallpaper-Load_Balance_a_Laravel_App"
+    },
+    {
+      "id": 32,
+      "img": "/wallpapers/Wallpaper-Modern_JavaScript_Basics.png",
+      "alt": "Wallpaper-Modern_JavaScript_Basics"
+    },
+    {
+      "id": 33,
+      "img": "/wallpapers/Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE.png",
+      "alt": "Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE"
+    },
+    {
+      "id": 34,
+      "img": "/wallpapers/Wallpaper-NuxtJS_Crash_Course.png",
+      "alt": "Wallpaper-NuxtJS_Crash_Course"
+    },
+    {
+      "id": 35,
+      "img": "/wallpapers/Wallpaper-PestFrom_Scratch.png",
+      "alt": "Wallpaper-PestFrom_Scratch"
+    },
+    {
+      "id": 36,
+      "img": "/wallpapers/Wallpaper-PHP_For_Beginners.png",
+      "alt": "Wallpaper-PHP_For_Beginners"
+    },
+    {
+      "id": 37,
+      "img": "/wallpapers/Wallpaper-Rapid_Laravel_Development_with_Filament.png",
+      "alt": "Wallpaper-Rapid_Laravel_Development_with_Filament"
+    },
+    {
+      "id": 38,
+      "img": "/wallpapers/Wallpaper-React_Beyond_the_Basics.png",
+      "alt": "Wallpaper-React_Beyond_the_Basics"
+    },
+    {
+      "id": 39,
+      "img": "/wallpapers/Wallpaper-Serverless_Laravel.png",
+      "alt": "Wallpaper-Serverless_Laravel"
+    },
+    {
+      "id": 40,
+      "img": "/wallpapers/Wallpaper-Small_Laravel_Packages_Big_Impact.png",
+      "alt": "Wallpaper-Small_Laravel_Packages_Big_Impact"
+    },
+    {
+      "id": 41,
+      "img": "/wallpapers/Wallpaper-Streaming _Modularization.png",
+      "alt": "Wallpaper-Streaming _Modularization"
+    },
+    {
+      "id": 42,
+      "img": "/wallpapers/Wallpaper-Svelte_Crash_Course.png",
+      "alt": "Wallpaper-Svelte_Crash_Course"
+    },
+    {
+      "id": 43,
+      "img": "/wallpapers/Wallpaper-Valet_Uncovered.png",
+      "alt": "Wallpaper-Valet_Uncovered"
+    },
+    {
+      "id": 44,
+      "img": "/wallpapers/Wallpaper-What’s_New_in_Laravel_9.png",
+      "alt": "Wallpaper-What’s_New_in_Laravel_9"
+    },
+    {
+      "id": 45,
+      "img": "/wallpapers/Wallpaper-Whats_New_in_Laravel_11.png",
+      "alt": "Wallpaper-Whats_New_in_Laravel_11"
+    },
+    {
+      "id": 46,
+      "img": "/wallpapers/Wallpaper-Write_a_Composer_Package.png",
+      "alt": "Wallpaper-Write_a_Composer_Package"
     }
   ]
 }
