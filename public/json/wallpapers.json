@@ -2,27 +2,27 @@
   "wallpapers": [
     {
       "id": 1,
-      "img": "/wallpapers/Wallpaper-Blue.jpeg",
+      "img": "/wallpapers/Wallpaper-Blue.png",
       "alt": "Blue Laracasts Wallpaper"
     },
     {
       "id": 2,
-      "img": "/wallpapers/Wallpaper-Green.jpeg",
+      "img": "/wallpapers/Wallpaper-Green.png",
       "alt": "Green Laracasts Wallpaper"
     },
     {
       "id": 3,
-      "img": "/wallpapers/Wallpaper-Red.jpeg",
+      "img": "/wallpapers/Wallpaper-Red.png",
       "alt": "Red Laracasts Wallpaper"
     },
     {
       "id": 4,
-      "img": "/wallpapers/Wallpaper-Yellow.jpeg",
+      "img": "/wallpapers/Wallpaper-Yellow.png",
       "alt": "Yellow Laracasts Wallpaper"
     },
     {
       "id": 5,
-      "img": "/wallpapers/Wallpaper-Purple.jpeg",
+      "img": "/wallpapers/Wallpaper-Purple.png",
       "alt": "Purple Laracasts Wallpaper"
     },
     {
