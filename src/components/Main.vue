@@ -1,5 +1,5 @@
 <script>
-import json from "./json/wallpapers.json"
+import json from "@/../public/json/wallpapers.json"
 
 export default {
     name: 'Main',
