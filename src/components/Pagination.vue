@@ -1,11 +1,9 @@
 <script>
 export default {
-    props: {
-        currentPage: null,
-        totalPages: null
-    },
+    props: ['currentPage', 'totalPages'],
     methods: {
         nextPage() {
+            console.log(currentPage);
             if (currentPage < totalPages) {
                 currentPage++;
                 this.emit('current_page', this.currentPage)
