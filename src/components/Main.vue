@@ -12,15 +12,10 @@ export default {
             title: 'Laracast Wallpapers',
             content: 'Don’t forget! Every series has it’s own dedicated wallpaper. Whenever you view a series, scroll right under the video and you’ll see a download button there.Go ahead and explore and find your favorite one. Here are a few with Lary!',
             wallpapers: json.wallpapers,
-            pageSize: 5, // Number of items per page
-            currentPage: 1, // Current page
+            pageSize: 5,
+            currentPage: 1,
             show: false,
         }
-    },
-    watch: {
-        wallpapers() {
-            this.show = false;
-        },
     },
     computed: {
         totalPages() {
@@ -57,7 +52,7 @@ export default {
                             <h1 class="text-2xl font-medium">{{ title }}</h1>
                             <p class="text-grey-600 text-sm mt-2">{{ content }}</p>
                         </header>
-                        <div v-for="wallpaper in paginatedItems" :key="wallpaper.id" class="mb-12">
+                        <div v-for="wallpaper in wallpapers" :key="wallpaper.id" class="mb-12">
                             <a :href="wallpaper.img">
                                 <div v-if="!show">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
@@ -66,8 +61,8 @@ export default {
                                             d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
                                     </svg>
                                 </div>
-                                <img :src="wallpaper.img" :alt="wallpaper.alt" class="mb-4 w-full rounded-md"
-                                    @load="show = true" />
+                                <img v-show="show = true" :src="wallpaper.img" :alt="wallpaper.alt"
+                                    class="mb-4 w-full rounded-md" :key="wallpaper.id" onload="show = true;" />
                             </a>
                             <div class="flex justify-center items-center">
                                 <a :href="wallpaper.img" class="button" download="">Download Wallpaper</a>
