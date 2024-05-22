@@ -1,6 +1,7 @@
 <script>
 import json from "@/../src/json/wallpapers.json"
 import Pagination from '@/components/Pagination.vue';
+import { ref, nextTick } from 'vue'
 
 export default {
     name: 'Main',
@@ -14,8 +15,24 @@ export default {
             wallpapers: json.wallpapers,
             pageSize: 5,
             currentPage: 1,
-            show: false,
+            isLoaded: false,
         }
+    },
+    mounted() {
+        nextTick(() => {
+            this.wallpapers.forEach((wallpaper) => {
+                const image = new Image();
+                image.onload = () => {
+                    if (image.complete) {
+                        wallpaper.isLoaded = true;
+                    }
+                };
+                image.onerror = () => {
+                    this.handleImageError(wallpaper);
+                };
+                image.src = wallpaper.src;
+            });
+        });
     },
     computed: {
         totalPages() {
@@ -37,7 +54,12 @@ export default {
             if (this.currentPage > 1) {
                 this.currentPage--;
             }
-        }
+        },
+        handleImageError(wallpaper) {
+            console.error(`Error loading wallpaper: ${wallpaper.alt}`);
+            // Optionally display an error message or a default image
+            wallpaper.src = "default-wallpaper.jpg"; // Replace with your default image URL
+        },
     }
 }
 </script>
@@ -54,15 +76,15 @@ export default {
                         </header>
                         <div v-for="wallpaper in wallpapers" :key="wallpaper.id" class="mb-12">
                             <a :href="wallpaper.img">
-                                <div v-if="!show">
+                                <div v-if="!wallpaper.isLoaded">
                                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                         stroke-width="1.5" stroke="currentColor" class="animate-spin w-6 h-6 mx-auto">
                                         <path stroke-linecap="round" stroke-linejoin="round"
                                             d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
                                     </svg>
                                 </div>
-                                <img v-show="show = true" :src="wallpaper.img" :alt="wallpaper.alt"
-                                    class="mb-4 w-full rounded-md" :key="wallpaper.id" onload="show = true;" />
+                                <img :src="wallpaper.img" :alt="wallpaper.alt" class="mb-4 w-full rounded-md"
+                                    :key="wallpaper.id" v-show="wallpaper.isLoaded" />
                             </a>
                             <div class="flex justify-center items-center">
                                 <a :href="wallpaper.img" class="button" download="">Download Wallpaper</a>

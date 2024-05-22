@@ -2,233 +2,279 @@
   "wallpapers": [
     {
       "id": 1,
-      "img": "/wallpapers/Wallpaper-Blue.png",
-      "alt": "Blue Laracasts Wallpaper"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Blue.png?alt=media&token=bec5f9ac-6dab-4ded-aed0-94a55bad33ee",
+      "alt": "Blue Laracasts Wallpaper",
+      "isLoaded": false
     },
     {
       "id": 2,
-      "img": "/wallpapers/Wallpaper-Green.png",
-      "alt": "Green Laracasts Wallpaper"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Green.png?alt=media&token=917115ad-da7d-45d8-a6b6-d904a8f26353",
+      "alt": "Green Laracasts Wallpaper",
+      "isLoaded": false
     },
     {
       "id": 3,
-      "img": "/wallpapers/Wallpaper-Red.png",
-      "alt": "Red Laracasts Wallpaper"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Red.png?alt=media&token=63c1deda-ba4d-4ef6-bbb7-ca3266e08591",
+      "alt": "Red Laracasts Wallpaper",
+      "isLoaded": false
     },
     {
       "id": 4,
-      "img": "/wallpapers/Wallpaper-Yellow.png",
-      "alt": "Yellow Laracasts Wallpaper"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Yellow.png?alt=media&token=4c7f2c55-1612-4b74-88f8-d1b6b42650ce",
+      "alt": "Yellow Laracasts Wallpaper",
+      "isLoaded": false
     },
     {
       "id": 5,
-      "img": "/wallpapers/Wallpaper-Purple.png",
-      "alt": "Purple Laracasts Wallpaper"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Purple.png?alt=media&token=45c298ba-0381-49b2-aa15-4737fcbff050",
+      "alt": "Purple Laracasts Wallpaper",
+      "isLoaded": false
     },
     {
       "id": 6,
-      "img": "/wallpapers/Wallpaper-30_days_to_learn_laravel.png",
-      "alt": "Wallpaper-30_days_to_learn_laravel"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-30_days_to_learn_laravel.png?alt=media&token=b857177c-89af-4c78-bab2-9377a16450f1",
+      "alt": "Wallpaper-30_days_to_learn_laravel",
+      "isLoaded": false
     },
     {
       "id": 7,
-      "img": "/wallpapers/Wallpaper-Automatic_Laravel_Upgrades_Explained.png",
-      "alt": "Wallpaper-Automatic_Laravel_Upgrades_Explained"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Automatic_Laravel_Upgrades_Explained.png?alt=media&token=c86c4c0c-2bf3-474f-89d3-a3a45f8620fc",
+      "alt": "Wallpaper-Automatic_Laravel_Upgrades_Explained",
+      "isLoaded": false
     },
     {
       "id": 8,
-      "img": "/wallpapers/Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel.png",
-      "alt": "Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel.png?alt=media&token=7230eabf-e241-40b0-9405-8dac4ec2eb67",
+      "alt": "Wallpaper-Advanced_Image_Uploading_With_Vue_and_Laravel",
+      "isLoaded": false
     },
     {
       "id": 9,
-      "img": "/wallpapers/Wallpaper-AWS_Fundamentals.png",
-      "alt": "Wallpaper-AWS_Fundamentals"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-AWS_Fundamentals.png?alt=media&token=c04dbd8f-edd2-4548-b041-66608d8472d3",
+      "alt": "Wallpaper-AWS_Fundamentals",
+      "isLoaded": false
     },
     {
       "id": 10,
-      "img": "/wallpapers/Wallpaper-Build_a_Forum_with_Laravel.png",
-      "alt": "Wallpaper-Build_a_Forum_with_Laravel"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Build_a_Forum_with_Laravel.png?alt=media&token=658a5ced-9a52-42fd-8305-0c3cc7206859",
+      "alt": "Wallpaper-Build_a_Forum_with_Laravel",
+      "isLoaded": false
     },
     {
       "id": 11,
-      "img": "/wallpapers/Wallpaper-Build_a_Web_Shop_From_A-Z.png",
-      "alt": "Wallpaper-Build_a_Web_Shop_From_A-Z"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Build_a_Web_Shop_From_A-Z.png?alt=media&token=401b7cb2-e59b-433f-ab42-c5718639e41c",
+      "alt": "Wallpaper-Build_a_Web_Shop_From_A-Z",
+      "isLoaded": false
     },
     {
       "id": 12,
-      "img": "/wallpapers/Wallpaper-Build_Advanced_Components_For_Filament.png",
-      "alt": "Wallpaper-Build_Advanced_Components_For_Filament"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Build_Advanced_Components_For_Filament.png?alt=media&token=606c70ec-938a-452c-a5ae-f80b6ac018be",
+      "alt": "Wallpaper-Build_Advanced_Components_For_Filament",
+      "isLoaded": false
     },
     {
       "id": 13,
-      "img": "/wallpapers/Wallpaper-Code_Katas.png",
-      "alt": "Wallpaper-Code_Katas"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Code_Katas.png?alt=media&token=371819cc-f617-43d0-9ab3-4a5fa87ed9da",
+      "alt": "Wallpaper-Code_Katas",
+      "isLoaded": false
     },
     {
       "id": 14,
-      "img": "/wallpapers/Wallpaper-Codebreaking_Workshop.png",
-      "alt": "Wallpaper-Codebreaking_Workshop"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Codebreaking_Workshop.png?alt=media&token=e6feeb92-b101-414d-82c3-9d9ad238ee3e",
+      "alt": "Wallpaper-Codebreaking_Workshop",
+      "isLoaded": false
     },
     {
       "id": 15,
-      "img": "/wallpapers/Wallpaper-CSS_Flexbox_Simplified.png",
-      "alt": "Wallpaper-CSS_Flexbox_Simplified"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-CSS_Flexbox_Simplified.png?alt=media&token=3ad46bff-6ebe-4473-a245-87f4414e7d30",
+      "alt": "Wallpaper-CSS_Flexbox_Simplified",
+      "isLoaded": false
     },
     {
       "id": 16,
-      "img": "/wallpapers/Wallpaper-CSS_Grids_Simplified.png",
-      "alt": "Wallpaper-CSS_Grids_Simplified"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-CSS_Grids_Simplified.png?alt=media&token=060beb2e-7202-4287-bdca-d0dcc1b72bb7",
+      "alt": "Wallpaper-CSS_Grids_Simplified",
+      "isLoaded": false
     },
     {
       "id": 17,
-      "img": "/wallpapers/Wallpaper-Demystifying_Laravel_Magic.png",
-      "alt": "Wallpaper-Demystifying_Laravel_Magic"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Demystifying_Laravel_Magic.png?alt=media&token=2bb8f266-2e2a-4b76-b6a7-075d8cd0e8a6",
+      "alt": "Wallpaper-Demystifying_Laravel_Magic",
+      "isLoaded": false
     },
     {
       "id": 18,
-      "img": "/wallpapers/Wallpaper-Desktop_Livewire_Uncovered.png",
-      "alt": "Wallpaper-Desktop_Livewire_Uncovered"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Desktop_Livewire_Uncovered.png?alt=media&token=6f388248-449b-41ad-951c-be8549f286ab",
+      "alt": "Wallpaper-Desktop_Livewire_Uncovered",
+      "isLoaded": false
     },
     {
       "id": 19,
-      "img": "/wallpapers/Wallpaper-Develop_Serverless_Functions_With_Laravel.png",
-      "alt": "Wallpaper-Develop_Serverless_Functions_With_Laravel"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Develop_Serverless_Functions_With_Laravel.png?alt=media&token=b033c43a-c24d-4027-9660-6a44cefbdea7",
+      "alt": "Wallpaper-Develop_Serverless_Functions_With_Laravel",
+      "isLoaded": false
     },
     {
       "id": 20,
-      "img": "/wallpapers/Wallpaper-Inertia_and_SPA_Techniques.png",
-      "alt": "Wallpaper-Inertia_and_SPA_Techniques"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Inertia_and_SPA_Techniques.png?alt=media&token=f68f248c-a333-45bb-9859-dac18ccd6eef",
+      "alt": "Wallpaper-Inertia_and_SPA_Techniques",
+      "isLoaded": false
     },
     {
       "id": 21,
-      "img": "/wallpapers/Wallpaper-Inertia_Mastery.png",
-      "alt": "Wallpaper-Inertia_Mastery"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Inertia_Mastery.png?alt=media&token=370d6df1-1bb3-4dd3-b6f4-780a3f10310c",
+      "alt": "Wallpaper-Inertia_Mastery",
+      "isLoaded": false
     },
     {
       "id": 22,
-      "img": "/wallpapers/Wallpaper-Infinite_Scrolling_With_Inerita.png",
-      "alt": "Wallpaper-Infinite_Scrolling_With_Inerita"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Infinite_Scrolling_With_Inerita.png?alt=media&token=bae1ade4-adc3-4d1c-8b83-d635bc718008",
+      "alt": "Wallpaper-Infinite_Scrolling_With_Inerita",
+      "isLoaded": false
     },
     {
       "id": 23,
-      "img": "/wallpapers/Wallpaper-Javascript_The_First_Steps.png",
-      "alt": "Wallpaper-Javascript_The_First_Steps"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Javascript_The_First_Steps.png?alt=media&token=c00122c9-5de1-41f7-93c7-81b3d31853c5",
+      "alt": "Wallpaper-Javascript_The_First_Steps",
+      "isLoaded": false
     },
     {
       "id": 24,
-      "img": "/wallpapers/Wallpaper-Laravel_Cookbook.png",
-      "alt": "Wallpaper-Laravel_Cookbook"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Laravel_Cookbook.png?alt=media&token=ae9b1747-5d2e-4282-a82b-16a61646cb1f",
+      "alt": "Wallpaper-Laravel_Cookbook",
+      "isLoaded": false
     },
     {
       "id": 25,
-      "img": "/wallpapers/Wallpaper-Laravel_Nova_Mastery.png",
-      "alt": "Wallpaper-Laravel_Nova_Mastery"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Laravel_Nova_Mastery.png?alt=media&token=ee57e9f5-d175-4559-afcf-35478102a25c",
+      "alt": "Wallpaper-Laravel_Nova_Mastery",
+      "isLoaded": false
     },
     {
       "id": 26,
-      "img": "/wallpapers/Wallpaper-Laravel_Octane.png",
-      "alt": "Wallpaper-Laravel_Octane"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Laravel_Octane.png?alt=media&token=807a0f99-dca9-43ec-86ce-4a2f66eb19d3",
+      "alt": "Wallpaper-Laravel_Octane",
+      "isLoaded": false
     },
     {
       "id": 27,
-      "img": "/wallpapers/Wallpaper-Laravel_Security_Through_Examples.png",
-      "alt": "Wallpaper-Laravel_Security_Through_Examples"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Laravel_Security_Through_Examples.png?alt=media&token=b668d506-8415-44df-babc-5d41b40dbe7d",
+      "alt": "Wallpaper-Laravel_Security_Through_Examples",
+      "isLoaded": false
     },
     {
       "id": 28,
-      "img": "/wallpapers/Wallpaper-Learn_Laravel_Forge.png",
-      "alt": "Wallpaper-Learn_Laravel_Forge"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Learn_Laravel_Forge.png?alt=media&token=ad5db482-2ed2-4a9a-b063-7ba1dd4198e5",
+      "alt": "Wallpaper-Learn_Laravel_Forge",
+      "isLoaded": false
     },
     {
       "id": 29,
-      "img": "/wallpapers/Wallpaper-Learn_Statamic_With_Jack.png",
-      "alt": "Wallpaper-Learn_Statamic_With_Jack"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Learn_Statamic_With_Jack.png?alt=media&token=faf2e101-27a7-42b7-b91c-e9a3bebf5daf",
+      "alt": "Wallpaper-Learn_Statamic_With_Jack",
+      "isLoaded": false
     },
     {
       "id": 30,
-      "img": "/wallpapers/Wallpaper-Let's_Build_an_Offline_First_Vue_App.png",
-      "alt": "Wallpaper-Let's_Build_an_Offline_First_Vue_App"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Let's_Build_an_Offline_First_Vue_App.png?alt=media&token=58111e40-4755-4340-b30d-1f58c04cc78d",
+      "alt": "Wallpaper-Let's_Build_an_Offline_First_Vue_App",
+      "isLoaded": false
     },
     {
       "id": 31,
-      "img": "/wallpapers/Wallpaper-Load_Balance_a_Laravel_App.png",
-      "alt": "Wallpaper-Load_Balance_a_Laravel_App"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Load_Balance_a_Laravel_App.png?alt=media&token=b11f3dd7-e0c6-462a-96db-429e6448c742",
+      "alt": "Wallpaper-Load_Balance_a_Laravel_App",
+      "isLoaded": false
     },
     {
       "id": 32,
-      "img": "/wallpapers/Wallpaper-Modern_JavaScript_Basics.png",
-      "alt": "Wallpaper-Modern_JavaScript_Basics"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Modern_JavaScript_Basics.png?alt=media&token=a9fb4a96-3c89-447d-a9c2-f64c21d2cf77",
+      "alt": "Wallpaper-Modern_JavaScript_Basics",
+      "isLoaded": false
     },
     {
       "id": 33,
-      "img": "/wallpapers/Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE.png",
-      "alt": "Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE.png?alt=media&token=f0b4af22-cd31-49c3-87c8-8381e50f24e5",
+      "alt": "Wallpaper-Neovim_as_a_PHP_and_JavaScript_IDE",
+      "isLoaded": false
     },
     {
       "id": 34,
-      "img": "/wallpapers/Wallpaper-NuxtJS_Crash_Course.png",
-      "alt": "Wallpaper-NuxtJS_Crash_Course"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-NuxtJS_Crash_Course.png?alt=media&token=80daaa63-aca7-44d8-bbb9-bcf9f20bfdf8",
+      "alt": "Wallpaper-NuxtJS_Crash_Course",
+      "isLoaded": false
     },
     {
       "id": 35,
-      "img": "/wallpapers/Wallpaper-PestFrom_Scratch.png",
-      "alt": "Wallpaper-PestFrom_Scratch"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-PestFrom_Scratch.png?alt=media&token=35004648-5fc5-42bf-8dc9-4485748c1b74",
+      "alt": "Wallpaper-PestFrom_Scratch",
+      "isLoaded": false
     },
     {
       "id": 36,
-      "img": "/wallpapers/Wallpaper-PHP_For_Beginners.png",
-      "alt": "Wallpaper-PHP_For_Beginners"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-PHP_For_Beginners.png?alt=media&token=61439d29-0d57-41ed-9f6b-c6c735899169",
+      "alt": "Wallpaper-PHP_For_Beginners",
+      "isLoaded": false
     },
     {
       "id": 37,
-      "img": "/wallpapers/Wallpaper-Rapid_Laravel_Development_with_Filament.png",
-      "alt": "Wallpaper-Rapid_Laravel_Development_with_Filament"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Rapid_Laravel_Development_with_Filament.png?alt=media&token=361a5bb8-4a9d-4422-9c92-be8608b132a5",
+      "alt": "Wallpaper-Rapid_Laravel_Development_with_Filament",
+      "isLoaded": false
     },
     {
       "id": 38,
-      "img": "/wallpapers/Wallpaper-React_Beyond_the_Basics.png",
-      "alt": "Wallpaper-React_Beyond_the_Basics"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-React_Beyond_the_Basics.png?alt=media&token=bb851ef7-11df-4423-98d7-aba462423e50",
+      "alt": "Wallpaper-React_Beyond_the_Basics",
+      "isLoaded": false
     },
     {
       "id": 39,
-      "img": "/wallpapers/Wallpaper-Serverless_Laravel.png",
-      "alt": "Wallpaper-Serverless_Laravel"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Serverless_Laravel.png?alt=media&token=913d9900-36d1-4165-980e-a73b026f9706",
+      "alt": "Wallpaper-Serverless_Laravel",
+      "isLoaded": false
     },
     {
       "id": 40,
-      "img": "/wallpapers/Wallpaper-Small_Laravel_Packages_Big_Impact.png",
-      "alt": "Wallpaper-Small_Laravel_Packages_Big_Impact"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Small_Laravel_Packages_Big_Impact.png?alt=media&token=93f030c7-3620-4709-b9f5-d697fd924a65",
+      "alt": "Wallpaper-Small_Laravel_Packages_Big_Impact",
+      "isLoaded": false
     },
     {
       "id": 41,
-      "img": "/wallpapers/Wallpaper-Streaming _Modularization.png",
-      "alt": "Wallpaper-Streaming _Modularization"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Streaming%20_Modularization.png?alt=media&token=e355d6f2-2ed3-49f7-89b6-489f83e15986",
+      "alt": "Wallpaper-Streaming _Modularization",
+      "isLoaded": false
     },
     {
       "id": 42,
-      "img": "/wallpapers/Wallpaper-Svelte_Crash_Course.png",
-      "alt": "Wallpaper-Svelte_Crash_Course"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Svelte_Crash_Course.png?alt=media&token=73b7e1f0-01a7-496e-9f15-439b78a0b28b",
+      "alt": "Wallpaper-Svelte_Crash_Course",
+      "isLoaded": false
     },
     {
       "id": 43,
-      "img": "/wallpapers/Wallpaper-Valet_Uncovered.png",
-      "alt": "Wallpaper-Valet_Uncovered"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Valet_Uncovered.png?alt=media&token=de347b36-2286-4d63-87f0-170db5f7f3ee",
+      "alt": "Wallpaper-Valet_Uncovered",
+      "isLoaded": false
     },
     {
       "id": 44,
-      "img": "/wallpapers/Wallpaper-What’s_New_in_Laravel_9.png",
-      "alt": "Wallpaper-What’s_New_in_Laravel_9"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-What%E2%80%99s_New_in_Laravel_9.png?alt=media&token=73509e46-8c31-428f-84f6-65c2bd08ceb4",
+      "alt": "Wallpaper-What’s_New_in_Laravel_9",
+      "isLoaded": false
     },
     {
       "id": 45,
-      "img": "/wallpapers/Wallpaper-Whats_New_in_Laravel_11.png",
-      "alt": "Wallpaper-Whats_New_in_Laravel_11"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Whats_New_in_Laravel_11.png?alt=media&token=69f8284e-8f5a-4448-8450-20bd38fbf572",
+      "alt": "Wallpaper-Whats_New_in_Laravel_11",
+      "isLoaded": false
     },
     {
       "id": 46,
-      "img": "/wallpapers/Wallpaper-Write_a_Composer_Package.png",
-      "alt": "Wallpaper-Write_a_Composer_Package"
+      "img": "https://firebasestorage.googleapis.com/v0/b/laracast-wallpapers.appspot.com/o/Wallpaper-Write_a_Composer_Package.png?alt=media&token=711bd52d-e737-4612-a2a1-76635acaa41f",
+      "alt": "Wallpaper-Write_a_Composer_Package",
+      "isLoaded": false
     }
   ]
 }
