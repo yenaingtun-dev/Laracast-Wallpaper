@@ -3,7 +3,7 @@ export default {
     name: 'Header',
     data() {
         return {
-            link: 'https://laracasts.com',
+            link: '/',
             logo: '/logo-white.svg',
             alt: 'Laracasts'
         }
