@@ -105,7 +105,7 @@ export default {
                         <div class="max-w-lg container flex justify-center mx-auto" v-if="!search.length > 0">
                             <div class="flex flex-row mx-auto">
                                 <button type="button" @click="previousPage" :disabled="currentPage === 1"
-                                    class="bg-gray-800 text-white rounded-l-md border-r border-gray-100 py-2 hover:bg-red-700 hover:text-white px-3">
+                                    class="bg-gray-800 text-white rounded-l-md border-r border-gray-100 py-2 hover:bg-white hover:text-[#151f32] px-3">
                                     <div class="flex flex-row align-middle">
                                         <svg class="w-5 mr-2" fill="currentColor" viewBox="0 0 20 20"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -119,7 +119,7 @@ export default {
                                 <span class="bg-gray-800 text-white rounded-r-md py-2  border-gray-200 px-5">{{
                                 currentPage }}</span>
                                 <button type="button" @click="nextPage" :disabled="currentPage === totalPages"
-                                    class="bg-gray-800 text-white rounded-r-md py-2 border-l border-gray-200 hover:bg-red-700 hover:text-white px-3">
+                                    class="bg-gray-800 text-white rounded-r-md py-2 border-l border-gray-200 hover:bg-white hover:text-[#151f32] px-3">
                                     <div class="flex flex-row align-middle">
                                         <span class="mr-2">Next</span>
                                         <svg class="w-5 ml-2" fill="currentColor" viewBox="0 0 20 20"
