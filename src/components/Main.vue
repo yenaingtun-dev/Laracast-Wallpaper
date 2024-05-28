@@ -57,7 +57,7 @@ export default {
                             <h1 class="text-2xl font-medium">{{ title }}</h1>
                             <p class="text-grey-600 text-sm mt-2">{{ content }}</p>
                         </header>
-                        <div class="relative text-gray-700 mb-10 w-3/4">
+                        <div class="relative text-gray-700 mb-10 w-full sm:w-3/4">
                             <label for="Search" class="sr-only"> Search Laracast Course Title </label>
 
                             <input v-model="search" type="text" id="Search" placeholder="Search Laracast Course Title"
