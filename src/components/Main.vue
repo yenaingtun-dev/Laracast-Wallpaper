@@ -57,7 +57,7 @@ export default {
                             <h1 class="text-2xl font-medium">{{ title }}</h1>
                             <p class="text-grey-600 text-sm mt-2">{{ content }}</p>
                         </header>
-                        <div class="relative text-gray-700 mb-10 w-3/4">
+                        <div class="relative text-gray-700 mb-10 w-full sm:w-3/4">
                             <label for="Search" class="sr-only"> Search Laracast Course Title </label>
 
                             <input v-model="search" type="text" id="Search" placeholder="Search Laracast Course Title"
@@ -78,7 +78,7 @@ export default {
                         <div v-if="search.length > 0">
                             <div v-for="wallpaper in filteredList" :key="wallpaper.id" class="mb-12">
                                 <a :href="wallpaper.img">
-                                    <img :src="wallpaper.view" :alt="wallpaper.alt"
+                                    <img :title="wallpaper.alt" :src="wallpaper.view" :alt="wallpaper.alt"
                                         class="mb-4 w-full h-full rounded-md" :key="wallpaper.id" loading="lazy" />
                                 </a>
                                 <div class="flex justify-center items-center">
@@ -95,8 +95,8 @@ export default {
                                             d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0 3.181 3.183a8.25 8.25 0 0 0 13.803-3.7M4.031 9.865a8.25 8.25 0 0 1 13.803-3.7l3.181 3.182m0-4.991v4.99" />
                                     </svg>
                                 </div> -->
-                                <img :src="wallpaper.view" :alt="wallpaper.alt" class="mb-4 w-full h-full rounded-md"
-                                    :key="wallpaper.id" loading="lazy" />
+                                <img :title="wallpaper.alt" :src="wallpaper.view" :alt="wallpaper.alt"
+                                    class="mb-4 w-full h-full rounded-md" :key="wallpaper.id" loading="lazy" />
                             </a>
                             <div class="flex justify-center items-center">
                                 <a :href="wallpaper.img" class="button" download="">Download Wallpaper</a>
