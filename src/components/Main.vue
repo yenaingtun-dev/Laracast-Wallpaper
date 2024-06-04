@@ -61,7 +61,7 @@ export default {
                             <label for="Search" class="sr-only"> Search Laracast Course Title </label>
 
                             <input v-model="search" type="text" id="Search" placeholder="Search Laracast Course Title"
-                                class="w-full rounded-md border-gray-200 py-2.5 pe-10 shadow-sm sm:text-sm" />
+                                class="w-full rounded-md bg-[#151f32] text-white border-gray-200 py-2.5 pe-10 shadow-sm sm:text-sm" />
 
                             <span class="absolute inset-y-0 end-0 grid w-10 place-content-center">
                                 <button type="button" class="text-gray-600 hover:text-gray-700">
