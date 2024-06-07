@@ -10,7 +10,7 @@ export default {
     data() {
         return {
             title: 'Laracast Wallpapers',
-            content: 'Don’t forget! Every series has it’s own dedicated wallpaper. Whenever you view a series, scroll right under the video and you’ll see a download button there.Go ahead and explore and find your favorite one. Here are a few with Lary!',
+            content: 'I like laracast wallpapers.So, i have gather every series wallpaper from laracast to download in one place. But there might be few latest series wallpaper that not added yet.',
             wallpapers: json.wallpapers,
             pageSize: 5,
             currentPage: 1,
